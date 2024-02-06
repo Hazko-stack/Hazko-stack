@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Front-End Development<br>🤝 I’m looking for help with web development<br>🌱 I’m currently learning ReactJS<br>💬 Ask me about web development<br>⚡ Fun fact coding is my half live
+🔭 I’m currently working on Front-End Development<br>🤝 I’m looking for help with web development<br>🌱 I’m currently learning ReactJS<br>💬 Ask me about web development<br>⚡ Fun fact coding is my half life
 
 
 ## 🌐 Socials:
